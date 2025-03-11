@@ -97,6 +97,7 @@ void rainbow(uint8_t wait)
     {
       pixels.setPixelColor(i, Wheel((i+j) & 255)); //Wheel 함수에서 반환되는 RGB 값으로 컬러 설정
     }
+    pixels.setBrightness(63);
     pixels.show();
     delay(wait);
   }
