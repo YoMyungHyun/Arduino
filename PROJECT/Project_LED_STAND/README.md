@@ -12,12 +12,10 @@
 ![image](https://github.com/user-attachments/assets/0883aea3-973a-40ac-b13e-ff7c19ef0887)
 ● 하드웨어 구현
 
-(코드 참조)
-● 소프트웨어 구현
+● 소프트웨어 구현 (코드 참조)
 
 ![image](https://github.com/user-attachments/assets/5f11b3c5-fe18-42ed-917c-9c98bc6ff787)
 ● 외관 구현
 
 https://github.com/user-attachments/assets/3a6c254c-2576-4d51-9e81-4efe2fb37078
-
 ● 프로젝트 성능 테스트 영상
