@@ -27,6 +27,6 @@
 
 
 https://github.com/user-attachments/assets/db3de036-3a03-468c-aba7-81d5c0086b6d
-● 하드웨어 구현
+● 하드웨어 구현 영상
 
 ● 소프트웨어 구현 (코드 참조)
