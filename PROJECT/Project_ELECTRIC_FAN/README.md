@@ -25,4 +25,8 @@
 ![image](https://github.com/user-attachments/assets/ac860143-4f95-4f30-be6f-ddc2e215010f)
 ● 하드웨어 구현
 
+
+https://github.com/user-attachments/assets/db3de036-3a03-468c-aba7-81d5c0086b6d
+● 하드웨어 구현
+
 ● 소프트웨어 구현 (코드 참조)
