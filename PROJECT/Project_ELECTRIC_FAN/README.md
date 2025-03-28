@@ -27,6 +27,17 @@
 
 
 https://github.com/user-attachments/assets/db3de036-3a03-468c-aba7-81d5c0086b6d
+
 ● 하드웨어 구현 영상
 
 ● 소프트웨어 구현 (코드 참조)
+
+![KakaoTalk_20250328_091146790](https://github.com/user-attachments/assets/83ac70ca-a323-46cd-9dc6-37b5806a18f6)
+![KakaoTalk_20250328_091146790_01](https://github.com/user-attachments/assets/7a24113f-5e5c-408c-a55e-d446411bfc1a)
+● 외관 구현
+
+
+
+https://github.com/user-attachments/assets/23929efa-f4c1-42e0-9fa7-5cb2cccd457e
+
+● 프로젝트 성능 테스트 영상
