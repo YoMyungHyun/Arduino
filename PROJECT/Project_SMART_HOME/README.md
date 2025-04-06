@@ -34,8 +34,4 @@
 
 - 외관 구현
 
-
-
-https://github.com/user-attachments/assets/23929efa-f4c1-42e0-9fa7-5cb2cccd457e
-
-● 프로젝트 성능 테스트 영상
+- 프로젝트 성능 테스트 영상
